@@ -15,18 +15,17 @@ pip3 install flask
 #### 使用说明
 运行webApi.py
 
+http://127.0.0.1:5000
 
 #### 参与贡献
 感谢以下开源项目
+
 https://github.com/houbb/sensitive-word
 
 https://github.com/caroltc/SensitivePy
 
 #### 特技
+小程序使用了这个文本检测，在线演示体验
+![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241022124303.jpg)
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241022124309.jpg)
