@@ -29,3 +29,6 @@ https://github.com/caroltc/SensitivePy
 ![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241022124303.jpg)
 
 ![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241022124309.jpg)
+
+这个只实现了文本检测，图片检测的话，可以参考uniapp实现微信安全检测的插件
+https://ext.dcloud.net.cn/plugin?name=uni-sec-check
