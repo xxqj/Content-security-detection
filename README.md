@@ -18,6 +18,8 @@ pip3 install flask
 http://127.0.0.1:5000
 
 #### 参与贡献
+QQ交流2群：941955968
+
 感谢以下开源项目
 
 https://github.com/houbb/sensitive-word
