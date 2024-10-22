@@ -5,27 +5,22 @@
 
 #### 软件架构
 软件架构说明
+python 3
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+pip3 install flask
 
 #### 使用说明
+运行webApi.py
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
+感谢以下开源项目
+https://github.com/houbb/sensitive-word
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
+https://github.com/caroltc/SensitivePy
 
 #### 特技
 
